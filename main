@@ -1,24 +1,3 @@
-main.c
-Chi tiết
-Hoạt động
-HÔM NAY
-T
-Bạnđã chỉnh sửa một mục
-Drive Notepad • 19:47
-C
-main.c
-THÁNG TRƯỚC
-T
-Bạnđã tạo một mục trong
-27 thg 6
-Thư mục Google Drive
-Source code
-C
-main.c
-Không có hoạt động nào được ghi lại trước Ngày 27 tháng 06 năm 2016
-Đã xóa tất cả lựa chọn 
-
-/**
   ******************************************************************************
   * @file    Project/main.c 
   * @author  MCD Application Team
@@ -56,8 +35,6 @@ Không có hoạt động nào được ghi lại trước Ngày 27 tháng 06 n�
 * Author: PHAM MINH THUAN                                                         *
 * Team: ELECTRONICS DEPART Lin Co., Ltd.                                          *
 ***********************************************************************************/
-
-/* tao notepad Drive
 
 /* Includes ------------------------------------------------------------------*/
 #include "stm8s_conf.h"
